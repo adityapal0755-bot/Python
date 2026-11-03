@@ -2667,14 +2667,14 @@ Input: [12, 5, 23, 8, 17]
 Output: 5
 """
 
-l = [12, 5, 23, 8, 17]
+# l = [12, 5, 23, 8, 17]
 
-smallest = l[0]
+# smallest = l[0]
 
-for elem in l:
-    if elem < smallest:
-        smallest = elem
-print(smallest)
+# for elem in l:
+#     if elem < smallest:
+#         smallest = elem
+# print(smallest)
 
 
 
@@ -2698,7 +2698,15 @@ Output:
 Positive: 3
 
 Negative: 2
+"""
 
+
+
+
+
+
+
+"""
 Q3. Calculate the Average
 
 Create a list of numbers and calculate the average of all its elements.
